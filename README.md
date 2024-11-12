@@ -1,7 +1,7 @@
 # MazdaModel
 ![image](https://github.com/user-attachments/assets/643440d2-f325-4460-a949-fc24f2ee35fa)
 
-This repository contains a 3D model of a Mazda RX-7 created in Blender 4.0. The model includes the car body and wheels, organized in a hierarchical structure for easy manipulation.
+This repository contains a 3D model of a Mazda RX-7 created in Blender. The model includes the car body and wheels, organized in a hierarchical structure for easy manipulation.
 
 ## Files and Structure
 
